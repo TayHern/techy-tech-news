@@ -83,7 +83,11 @@ header {
 }
 
 header h1 {
-  font-size: 1em;
+  border-bottom: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1%;
 }
 
 main {
@@ -97,7 +101,7 @@ main {
   padding: 0;
   cursor: pointer;
   text-decoration: none;
-  color: #225ca3;
+  color: #338b99;
   font-size: 100%;
   font-weight: bold;
   transition: color .1s;
@@ -106,7 +110,7 @@ main {
 
 .btn-no-style:hover {
   background: none;
-  color: #3486eb;
+  color: #538b8e;
 }
 
 .delete-post-btn {
@@ -131,15 +135,6 @@ main {
 .edit-link {
   display: block;
   margin: -1.5% 0 2% 0;
-}
-
-.upvote-btn {
-  background-color: #197d0f;
-  transition: background-color .1s;
-}
-
-.upvote-btn:hover {
-  background-color: #1f9c13;
 }
 
 .comment-form {
