@@ -33,7 +33,7 @@ const postdata = [
   },
   {
     title: 'What is the problem with Stormpoint.',
-    post_text: 'Stormpoint map is really bad.  Even I am not sure exaclty what the main reason is.  People complain that the map is too large or there is not enough good loot pools for it to make people want to fight on the map.  Majority of the time, the squads are already down to 8 left by the time the first ring closes and it makes it hard for teams to be able to apply pressure to one another to win the game.',
+    post_text: 'Stormpoint map is really bad.  Even I am not sure exaclty what the main reason is.  ',
     user_id: 9
   },
   {
