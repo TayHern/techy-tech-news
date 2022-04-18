@@ -6,9 +6,9 @@
 This is a tech blog for tech enthusiasts or anyone who needs help with new tech questions.  Works well for those who like a social media blog aspect without going to the already established blogs.
 
 
-![plot](techy-tech-news/public/assets/website-1.png)
+![images](/public/assets/website-1.png)
 
-![plot](techy-tech-news/public/assets/website-2.png)
+![images](/public/assets/website-2.png)
 
 ## Table of Contents
 - [Description](#description)
